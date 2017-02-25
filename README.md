@@ -3,7 +3,8 @@ You could learn the nitty-gritty by reading the <a href='https://en.wikipedia.or
 get the gist by reading <a href='https://github.com/blog/1586-identicons' target='_blank'>GitHub's explanation</a>.
 
 **To put it simply this is an Identicon**:
-<img src='assets/Hunter.png' height='100px' width='100px' alt='Hunter Identicon' style='display:block;margin-top:5px;'>
+
+<img src='assets/Hunter.png' height='100px' width='100px' alt='Hunter Identicon'>
 
 You can pass a string of characters to this application and it'll magically create one of these Identicons.
 The above example was designed by passing the string, "Hunter".
@@ -18,7 +19,7 @@ Download the codebase and from the project directory...
 iex -S mix
 ```
 
-** 2. Make an Identicon**: 
+**2. Make an Identicon**: 
 ```elixir
 Identicon.make('Some words here, maybe your name?')
 ```
