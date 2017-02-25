@@ -1,6 +1,6 @@
 ## What is an Identicon?
-You could learn the nitty-gritty by reading the <a href='https://en.wikipedia.org/wiki/Identicon' target='_blank'>Wikipedia article</a> or
-get the gist by reading <a href='https://github.com/blog/1586-identicons' target='_blank'>GitHub's explanation</a>.
+You could learn the nitty-gritty by reading the [Wikipedia article](https://en.wikipedia.org/wiki/Identicon) or
+get the gist by reading [GitHub's explanation](https://github.com/blog/1586-identicons).
 
 **To put it simply this is an Identicon**:
 
@@ -11,7 +11,7 @@ The above example was designed by passing the string, "Hunter".
 
 ## How To
 
-Make sure you have <a href='http://elixir-lang.org/getting-started/introduction.html#installation' target='_blank'>Elixir installed</a> on your computer.
+Make sure you have [Elixir installed](http://elixir-lang.org/getting-started/introduction.html#installation) on your computer.
 Download the codebase and from the project directory...
 
 **1. Fire up the Elixir console**:
